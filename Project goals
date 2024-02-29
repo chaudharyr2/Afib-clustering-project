@@ -1,0 +1,39 @@
+# Project Timeline
+
+Week 1 (March 1 - March 7): Project Planning and Data Acquisition
+- Objectives:
+  - Set up a GitHub repository for the project to track changes and version control.
+  - Start collecting and reviewing the dataset from the Atrial Fibrillation registry at UPMC.
+  - Outline the project in a Jupyter notebook, including the introduction and objectives.
+
+Week 2 (March 8 - March 14): Data Preparation and Initial Analysis
+- Objectives:
+  - Clean and preprocess the data, addressing missing values and encoding categorical variables.
+  - Perform exploratory data analysis to understand the dataset's characteristics and distributions.
+
+Week 3 (March 15 - March 21): Feature Engineering and Initial Clustering Models
+- Objectives:
+  - Conduct feature engineering based on domain knowledge and preliminary findings.
+  - Implement initial clustering algorithms (K-Means, Hierarchical Clustering) and assess their preliminary grouping efficacy.
+
+Week 4 (March 22 - March 28): Advanced Clustering Models and Evaluation
+- Objectives:
+  - Explore advanced clustering techniques (DBSCAN, GMM, Spectral Clustering) to better understand patient subgroups.
+  - Evaluate models using metrics such as silhouette score and compare cluster outcomes.
+
+Week 5 (March 29 - April 4): Model Refinement and Analysis
+- Objectives:
+  - Refine clustering models based on evaluation results.
+  - Start in-depth analysis of clusters to identify patterns and insights related to bleeding risk.
+
+Week 6 (April 5 - April 11): Finalization and Manuscript Preparation
+- Objectives:
+  - Finalize the analysis and model selection.
+  - Begin drafting the manuscript, focusing on methods, results, and discussion sections.
+  - Ensure all code in the Jupyter notebook is clean, well-documented, and reproducible.
+
+Week 7 (April 12 - April 16): Manuscript Finalization and Submission
+- Objectives:
+  - Complete the manuscript, including abstract, conclusion, and references.
+  - Review and finalize the Jupyter notebook, ensuring it's ready for sharing.
+  - Submit the manuscript and Jupyter notebook to Shyam for review and feedback.
